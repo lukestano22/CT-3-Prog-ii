@@ -1,6 +1,7 @@
 # Java Swing Menu GUI
 
-A simple Java Swing application that demonstrates building a user interface with a top menu bar and interactive options.
+A simple Java Swing application for my Programming II class that demonstrates building a user interface with a top menu bar and interactive options.
+
 
 ## 🧠 Features
 
